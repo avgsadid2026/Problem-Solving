@@ -24,11 +24,11 @@ int main()
         int k;
         cin>>k;
 
-        vector<int> v(n);
+      vector<int> v(n);
         for(int i=0; i<n;i++)
         {
             cin>>v[i];
-        }
+        }  
         
         cout<<solve(v, k)<<endl;
     }
