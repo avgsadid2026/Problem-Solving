@@ -1,0 +1,1 @@
+{"name":"Local: Integer_diversity","url":"c:\\Problem Solving\\Integer_diversity.cpp","tests":[{"id":1778251110411,"input":"1\n4\n1 1 2 2\n\n","output":"4\n3\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Problem Solving\\Integer_diversity.cpp","group":"local","local":true}
